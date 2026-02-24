@@ -47,11 +47,13 @@ files/
 1. Environment Configuration
 Create a .env file in the root directory and add your API keys:
 
+```
 Code snippet:
 
 ANTHROPIC_API_KEY=your_key_here
 OPENAI_API_KEY=your_key_here
 LLM_PROVIDER=anthropic
+```
 
 2. Knowledge Base Initialization
 Place your legal PDFs in knowledge_base/central/ and knowledge_base/karnataka/. Run the python notebooks to obtain the vector data files
