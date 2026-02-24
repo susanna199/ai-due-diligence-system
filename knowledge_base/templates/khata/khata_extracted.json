@@ -1,0 +1,30 @@
+{
+  "document_metadata": {
+    "report_title": "Copy of account/patta book",
+    "account_number": "128",
+    "district": "DHARWAD",
+    "taluk": "HUBBALLI",
+    "hobli": null,
+    "village": "BELAGALI"
+  },
+  "entries": [
+    {
+      "serial_number": "1",
+      "survey_share_number": "59/Block/*",
+      "owner_name": "Malappa's Peerappa",
+      "area": "4.33.00.00",
+      "shape": "13.84",
+      "local_tax": "6.92",
+      "health_insurance": "2.08",
+      "education_tax": "1.38",
+      "total": "24.22"
+    }
+  ],
+  "footer": {
+    "location": "HUBBALLI",
+    "date": "2/14/2026",
+    "amount": "0/-",
+    "certified_copy": "Certified copy"
+  },
+  "table_summary": {}
+}

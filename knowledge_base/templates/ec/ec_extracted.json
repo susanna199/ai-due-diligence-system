@@ -1,0 +1,457 @@
+{
+  "document_metadata": {
+    "report_title": "BHOOMI ENCUMBARANCE REPORT",
+    "district": "Bangalore South",
+    "taluk": "Channapatna",
+    "hobli": "Malur",
+    "village": "Ammallidodi",
+    "survey_no_main": "1"
+  },
+  "mutation_summary": [
+    {
+      "si_no": 1,
+      "mr_number": 8,
+      "mutation_type": "Account change"
+    },
+    {
+      "si_no": 2,
+      "mr_number": 7,
+      "mutation_type": "Account change"
+    },
+    {
+      "si_no": 3,
+      "mr_number": 4,
+      "mutation_type": "Court order"
+    },
+    {
+      "si_no": 4,
+      "mr_number": 5,
+      "mutation_type": "Account change"
+    },
+    {
+      "si_no": 5,
+      "mr_number": 2,
+      "mutation_type": "Court order"
+    },
+    {
+      "si_no": 6,
+      "mr_number": 1,
+      "mutation_type": "Account change"
+    }
+  ],
+  "mutations": [
+    {
+      "si_no": 1,
+      "change_method": "Account change",
+      "acquisition_method": "Pauti",
+      "mr_number": "8/2024-2025",
+      "approve_date": "23/05/2025",
+      "mutation_status": "Rejected",
+      "account_change_entries": [
+        {
+          "affected_survey_and_share_number": "1/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.17.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.17.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.00.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.00.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "4.00.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "4.00.00.00",
+          "transferees": []
+        }
+      ],
+      "new_survey_details": [],
+      "owner_details": []
+    },
+    {
+      "si_no": 2,
+      "change_method": "Account change",
+      "acquisition_method": "Pauti",
+      "mr_number": "7/2024-2025",
+      "approve_date": "02/05/2025",
+      "mutation_status": "Approved",
+      "account_change_entries": [
+        {
+          "affected_survey_and_share_number": "1/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.17.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.17.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.00.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.00.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "4.00.00.00",
+              "name": "Sarvamangala Kom Le Je Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kiran Kumar Bin Lay J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Le J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B Bin Le J Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "4.00.00.00",
+          "transferees": []
+        }
+      ],
+      "new_survey_details": [],
+      "owner_details": []
+    },
+    {
+      "si_no": 3,
+      "change_method": "Court order",
+      "acquisition_method": "(Co.) Donation",
+      "mr_number": "4/2020-2021",
+      "approve_date": "12/11/2020",
+      "mutation_status": "Approved",
+      "account_change_entries": [],
+      "new_survey_details": [
+        {
+          "survey_no": "1/*/*",
+          "total_area": "6.21.00.00",
+          "revenue": "8.81",
+          "title": "Patta",
+          "soil_sample": "Red",
+          "judi": "0.04.00.00",
+          "sessu": "0.00.00.00",
+          "water_rate": "0.00"
+        },
+        {
+          "survey_no": "20/*/*",
+          "total_area": "171.30.00.00",
+          "revenue": "123.31",
+          "title": "Government",
+          "soil_sample": "Red",
+          "judi": "0.00.00.00",
+          "sessu": "0.00.00.00",
+          "water_rate": "0.00"
+        }
+      ],
+      "owner_details": [
+        {
+          "survey_no": "1/*/*",
+          "name_of_the_acquirer": "J. Basavaraju bin Lt. Javaraiah",
+          "area": "6.17.0",
+          "account_number": "25",
+          "mode_of_acquisition": "MR 5/2006-2007",
+          "rights": null,
+          "debts": null,
+          "status": "Changed"
+        },
+        {
+          "survey_no": "20/*/*",
+          "name_of_the_acquirer": "J. Basavaraju bin Lt. Javaraiah",
+          "area": "6.0.0",
+          "account_number": "25",
+          "mode_of_acquisition": "MR 5/2006-2007",
+          "rights": null,
+          "debts": null,
+          "status": "Changed"
+        },
+        {
+          "survey_no": "20/*/*",
+          "name_of_the_acquirer": "J. Basavaraju bin Lt. Javaraiah",
+          "area": "4.0.0",
+          "account_number": "25",
+          "mode_of_acquisition": "MR 5/2006-2007",
+          "rights": null,
+          "debts": null,
+          "status": "Changed"
+        }
+      ]
+    },
+    {
+      "si_no": 4,
+      "change_method": "Account change",
+      "acquisition_method": "Pauti",
+      "mr_number": "5/2019-2020",
+      "approve_date": "14/10/2020",
+      "mutation_status": "Rejected",
+      "account_change_entries": [
+        {
+          "affected_survey_and_share_number": "1/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.17.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.17.00.00",
+              "name": "Sarvamangala Kom Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kirankumar Bin Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B. Bin Late J. Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.00.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.00.00.00",
+              "name": "Sarvamangala Kom Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kirankumar Bin Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Ashwini B Bin Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "Veena B. Bin Late J. Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "4.00.00.00",
+              "name": "Sarvamangala Kom Late J Basavaraju",
+              "relationship": "Other"
+            },
+            {
+              "area_transferee": "Upper joint",
+              "name": "B Kirankumar Bin Late J Basavaraju",
+              "relationship": "Other"
+            }
+          ]
+        }
+      ],
+      "new_survey_details": [],
+      "owner_details": []
+    },
+    {
+      "si_no": 5,
+      "change_method": "Court order",
+      "acquisition_method": "(Co.) Donation",
+      "mr_number": "2/2019-2020",
+      "approve_date": "25/11/2019",
+      "mutation_status": "Approved",
+      "account_change_entries": [],
+      "new_survey_details": [
+        {
+          "survey_no": "1/*/*",
+          "total_area": "6.21.00.00",
+          "revenue": "8.81",
+          "title": "Patta",
+          "soil_sample": "Red",
+          "judi": "0.04.00.00",
+          "sessu": "0.00.00.00",
+          "water_rate": "0.00"
+        },
+        {
+          "survey_no": "20/*/2",
+          "total_area": "6.00.00.00",
+          "revenue": "7.81",
+          "title": "Patta",
+          "soil_sample": "Red",
+          "judi": "0.00.00.00",
+          "sessu": "0.00.00.00",
+          "water_rate": "0.00"
+        },
+        {
+          "survey_no": "20/*/3",
+          "total_area": "4.00.00.00",
+          "revenue": "5.00",
+          "title": "Patta",
+          "soil_sample": "Red",
+          "judi": "0.00.00.00",
+          "sessu": "0.00.00.00",
+          "water_rate": "0.00"
+        }
+      ],
+      "owner_details": []
+    },
+    {
+      "si_no": 6,
+      "change_method": "Account change",
+      "acquisition_method": "Pauti",
+      "mr_number": "1/2019-2020",
+      "approve_date": "21/11/2019",
+      "mutation_status": "Rejected",
+      "account_change_entries": [
+        {
+          "affected_survey_and_share_number": "1/*/*",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.17.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.17.00.00",
+              "name": "Sarvamangala Komle J Basavaraju",
+              "relationship": "Wife"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/2",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "6.00.00.00",
+          "transferees": [
+            {
+              "area_transferee": "6.00.00.00",
+              "name": "Sarvamangala Komle J Basavaraju",
+              "relationship": "Wife"
+            }
+          ]
+        },
+        {
+          "affected_survey_and_share_number": "20/*/3",
+          "those_who_changed_their_rights": "J. Basavaraju bin Lt. Javaraiah",
+          "area_changed_rights": "4.00.00.00",
+          "transferees": [
+            {
+              "area_transferee": "4.00.00.00",
+              "name": "Sarvamangala Komle J Basavaraju",
+              "relationship": "Wife"
+            }
+          ]
+        }
+      ],
+      "new_survey_details": [],
+      "owner_details": []
+    }
+  ]
+}

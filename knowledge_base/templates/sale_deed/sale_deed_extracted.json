@@ -1,0 +1,62 @@
+{
+  "document_info": {
+    "document_type": "SALE DEED",
+    "execution_place": null,
+    "execution_date": null
+  },
+  "seller": {
+    "name": null,
+    "age": null,
+    "father_name": null,
+    "address": null
+  },
+  "purchaser": {
+    "name": null,
+    "age": null,
+    "father_name": null,
+    "address": null
+  },
+  "property_details": {
+    "apartment_number": null,
+    "floor": null,
+    "building_name": null,
+    "corporation_number": null,
+    "road": null,
+    "division_number": null,
+    "super_builtup_area": null,
+    "undivided_share_percent": null,
+    "undivided_share_area": null
+  },
+  "previous_sale_details": {
+    "previous_owner": null,
+    "previous_sale_deed_date": null,
+    "document_number": null,
+    "sub_registrar_office": null,
+    "khata_number": null
+  },
+  "sale_consideration": {
+    "amount": null,
+    "amount_words": null
+  },
+  "payment_details": [
+    {
+      "cheque_number": null,
+      "cheque_date": null,
+      "bank": null,
+      "amount": null
+    },
+    {
+      "cheque_number": null,
+      "cheque_date": null,
+      "bank": null,
+      "amount": null
+    }
+  ],
+  "schedule_property": {
+    "east": null,
+    "west": null,
+    "north": null,
+    "south": null
+  },
+  "market_value": null
+}

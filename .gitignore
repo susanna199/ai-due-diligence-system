@@ -1,0 +1,32 @@
+# Virtual environments
+venv/
+venv_312/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Model files (optional - if large)
+*.h5
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+*.log
