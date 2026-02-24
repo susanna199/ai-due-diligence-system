@@ -66,12 +66,12 @@ Bash
 streamlit run app.py
 ```
 
-**Security & Privacy**
+### **Security & Privacy**
 Stateless Processing: User documents are processed in memory and structured JSONs are stored locally in user_uploads/ for the duration of the session.
 
 No Training Data: The system uses Enterprise-tier APIs, ensuring that sensitive land records are never used to train global AI models.
 
 Grounded Accuracy: By using a RAG architecture, the system eliminates hallucinations by forcing the AI to cite actual legal statutes for every claim made.
 
-**Disclaimer**
+#### **Disclaimer**
 This system is an AI-assisted tool intended for informational purposes. It is not a substitute for professional legal counsel. Users should conduct independent due diligence before committing to property transactions.
